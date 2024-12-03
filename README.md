@@ -1,0 +1,1 @@
+Contains my half assed solutions to 2024's Advent of Code. Will I make it to the finish line this time? 
